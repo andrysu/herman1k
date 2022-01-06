@@ -1,9 +1,9 @@
 //Subscribe AndrQnn
-//Go1k
-//Go1k
-//Go1k
-//Go1k
-//Go1k
+//Go
+//Go
+//Go
+//Go
+//Go
 //Lib
 const { fetchJosn, kyun, fetchText } = require('./lib/fetcher')
 const { color, bgcolor } = require('./lib/color')
