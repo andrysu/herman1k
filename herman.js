@@ -72,7 +72,7 @@ const lah = '🐣ヅ',
 
 //━━━━━━━━━━━━━━━[ CONST SETTING ]━━━━━━━━━━━━━━━━━//
 
-owner = setting.owner
+owner =6285894148101
 botname = setting.botname
 bian = setting.bian
 bianname = setting.bianname
