@@ -1,4 +1,4 @@
-//Subscribe Herman Chanel
+//Subscribe AndrQnn
 //Go1k
 //Go1k
 //Go1k
@@ -1500,8 +1500,7 @@ trans = `BOT INFO
 ヅ ${prefix}caklontong
 |
  Random Image Menu
-ヅ ${prefix}art
-ヅ ${prefix}bts
+ヅ ${prefix}artn ${prefix}bts
 ヅ ${prefix}exo
 ヅ ${prefix}elf
 ヅ ${prefix}loli
